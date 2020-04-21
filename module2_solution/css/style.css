@@ -4,8 +4,7 @@
 }
 
 body {
-    background-color: white; /*#d6d6d6;*/
-}
+    background-color: white; 
 
 h1 {
     color: black;
@@ -33,16 +32,15 @@ section>h2 {
 }
 
 section.chicken>h2 {
-    background-color: salmon; /*#76b8db;*/
-}
+    background-color: salmon; 
 
 section.beef>h2 {
-    background-color: indianred; /*#4f7acd;*/
+    background-color: indianred; 
 }
 
 section.suchi>h2 {
-    color: #e2e2e2;
-    background-color: orange; /*#10328a;*/
+    color: chocolate; /*#e2e2e2;*/
+    background-color: orange; 
 }
 
 section>p {
