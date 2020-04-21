@@ -37,12 +37,12 @@ section.chicken>h2 {
 }
 
 section.beef>h2 {
-    background-color: #4f7acd;
+    background-color: indianred; /*#4f7acd;*/
 }
 
 section.suchi>h2 {
     color: #e2e2e2;
-    background-color: #10328a;
+    background-color: orange; /*#10328a;*/
 }
 
 section>p {
