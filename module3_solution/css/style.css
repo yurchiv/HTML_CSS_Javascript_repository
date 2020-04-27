@@ -10,7 +10,7 @@
 
 .navbar-brand{
   font-size: 35px;
-  color: green;
+  color: orange;
   padding-left: 25px;
 }
 
@@ -43,7 +43,7 @@
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: green;
+  color: orange;
   font-size: 50px;
   font-family: "Arial", cursive, sans-serif;
   font-weight: bold;
@@ -60,7 +60,7 @@ li{
 	width: 100%;
 	background-color: white;
 	border-bottom: 1px solid black;
-	color: black;
+	color: orange;
 	display: block;
 }
 
