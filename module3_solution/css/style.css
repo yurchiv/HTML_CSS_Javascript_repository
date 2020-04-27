@@ -10,7 +10,7 @@
 
 .navbar-brand{
   font-size: 35px;
-  color: white;
+  color: green;
   padding-left: 25px;
 }
 
@@ -43,7 +43,7 @@
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
+  color: green;
   font-size: 50px;
   font-family: "Arial", cursive, sans-serif;
   font-weight: bold;
